@@ -1,2 +1,1 @@
-# PrepCouruse-Henrry
-Ejemplo de Modulo 2
+Este proyecto es una prueba de como clonar un repositorio.
